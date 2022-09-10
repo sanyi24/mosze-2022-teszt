@@ -18,6 +18,8 @@ int main () {
     //constexpr double avg = double(N_ELEMENTS + 1) / 2; // Can use it here, but not general solution ofc.
     std::cout << "Atlag: " << avg << std::endl;
 
+    std::cout << "Phase 2 complete...\n";
+    
     return 0;
 }
 
